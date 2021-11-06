@@ -1,0 +1,13 @@
+body{
+	display:flex;
+	justify-content:space-between;
+	align-items: center;
+	margin-left: 16px;
+	border:1px solid black;
+	height:200px;
+}
+
+div{
+	border:1px solid red;
+	height:100px;
+}
